@@ -1,5 +1,7 @@
 # Pandas Project - English
 
+The project was part of the Engeto Data Academy 2020 - https://engeto.cz/online-datova-akademie/ 
+
 The aim of the project is to streamline the "bike sharing" system in the city of Edinburgh, as bicycles in some stations regularly accumulate and in others they are missing.
 
 The task consisted of processing relevant data, descriptive statistics and ascertain the following information:
@@ -15,10 +17,9 @@ Demand analysis:
 - find out the influence of the weather on the demand for bicycles 
 - Do people rent bikes more on weekends than during the week?
 
-### Data
-Unzip the folder data_edinburgh in order to access the data in the Notebook.
-
 # Pandas Project - Čeština
+
+Projekt byl řešen v rámci Datové Akademie 2020 od firmy Engeto - https://engeto.cz/online-datova-akademie/ 
 
 Cílem projektu je zefektivnit systém "bike sharing" ve městě Edinburgh, neboť v některých stanicích se kola pravidelně hromadí a jinde naopak chybí. 
 
@@ -35,6 +36,3 @@ Analýza poptávky:
 - identifikujte příčiny výkyvů poptávky
 - zjistěte vliv počasí na poptávku po kolech
 - půjčují si lidé kola více o víkendu než během pracovního týdne?
-
-### Data
-Je potřeba rozbalit složku data_edinburgh, aby se data zobrazila na Notebooku.
